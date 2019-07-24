@@ -1,4 +1,4 @@
-#MandelbrotSetVisualization
+## MandelbrotSetVisualization
 
 This is a visualization of the Mandelbrot set, the beautiful world of fractals!
 
