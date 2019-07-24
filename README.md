@@ -6,4 +6,4 @@ To learn more about Mandelbrot set and Julia sets, you can refer to this article
 
 You can some really cool Mandelbrot equivalent visualization by tweaking the value of 'pow'.
 
-![ALT TEXT](https://github.com/GangulyShreyan/MandelbrotSetVisualization/blob/master/PLOT.png)
+
